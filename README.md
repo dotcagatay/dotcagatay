@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Cagatay. I'm an freelance Front-End Web Developer.
+My name is Cagatay. I'm an freelancer Front-End Web Developer.
 
 ### 🛠 Languages and Tools
 
