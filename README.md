@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Cagatay. I'm an freelance Front-End Web Developer.
+I'm Cagatay, Front-End Web Developer.
 
 <img src="https://media.tenor.com/z5baub0vAPQAAAAC/powerpoint-the-office.gif">
 
